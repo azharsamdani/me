@@ -3,10 +3,10 @@
 
 **VP of Technology | Engineering Leader | Expert in Building Scalable Software Applications**
 
-  📍   Bengaluru, India  
-  📞   +91 9980565670  
-  ✉️    azharsamdani@gmail.com  
-  🔗   [LinkedIn](https://www.linkedin.com/in/azharsamdani)
+  📍    &nbsp;&nbsp;&nbsp;Bengaluru, India  
+  📞   &nbsp;+91 9980565670  
+  ✉️   &nbsp;&nbsp;azharsamdani@gmail.com  
+  🔗   &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/azharsamdani)
 
 ---
 
@@ -26,14 +26,13 @@ I bring a strong product and business acumen to technology leadership, combining
 **Rebel Foods – Bengaluru, India**  
 _Feb 2022 – Present_
 
-- Spearheading the development of the **Rebel+ Cloud Kitchen Platform**, a highly scalable, modular system powering Rebel Foods’ operations across multiple geographies.
-- Applications: Storefront, Dash, Hub, Spark, Spark T&T, Trax, Connect, Workforce Management, WMS, UAM, KDS, POS, InterPOS, Phoenix, and more.
-- Designed and delivered several strategic initiatives including **Quick Food Delivery**, **Smart Router**, **Tracking & Traceability**, **Multi-Kitchen Delivery**, **AI initiatives**, **Kitchen of the Future**, **Workforce Management**, **Cash Management**, **PoD Automation**, and **Aggregator integrations: ONDC, Swiggy Self Delviery, UrbanPiper, IRCTC, InterPOS and many more**, directly contributing to cost savings, revenue growth, and operational efficiency.
-- Set up software engineering best practices: **Peak Readiness Run-of-Show programs**, **Automation testing**, **Observability, Production incident management and On-call duty**,  **Secure development practices**, **Information Security practices for ITGC Compliance and ISO 27001** and many more.
-- Set up people management practices: **Career Handbook**, job descriptions, **Onboarding and Induction**, constant mentoring and coaching, interview panelist training, cross-team and cross-functional movements, All Hands meetings, kitchen and DC visits, and many more.
-- Mentored 15+ engineers and managers, directly managed over 40 team members, interviewed more than 200 candidates.
-  
-**Domains**: Food Tech, Cloud Kitchens, Kitchen Automation
+- Leading the development of **Rebel+ Cloud Kitchen Platform**, a scalable, modular system powering Rebel Foods’ global operations.
+- Driving key applications, including Storefront, Dash, Hub, Spark, Tracking & Traceability, Trax, Connect, Kitchen360, Workforce Management, WMS, UAM, KDS, POS, InterPOS, Phoenix, and more.
+- Architected and delivered strategic initiatives such as Quick Food Delivery (QuickiES), Smart Router, Tracking & Traceability, Multi-Kitchen Delivery, AI innovations, Kitchen of the Future, Workforce Management, Cash Management, PoD Automation, and integrations with ordering channels such as ONDC, Swiggy Self Delivery, UrbanPiper, IRCTC — boosting cost efficiency, revenue growth, and operational performance.
+- Established software engineering best practices including automation testing, observability, production incident management, on-call duty, peak readiness, architecture decision records, secure development, and ITGC/ISO 27001 compliance.
+- Built strong people management frameworks, creating career handbooks, structured onboarding, mentorship programs, cross-functional mobility, and leadership engagement initiatives.
+- Mentored 15+ engineers and managers, directly managed 40+ team members, and conducted 200+ interviews.
+- Expertise in Food Tech, Cloud Kitchens, Delivery Experience, external integrations, and Kitchen Automation.
 
 ---
 
