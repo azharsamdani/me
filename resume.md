@@ -40,13 +40,17 @@ _Feb 2022 – Present_
 **Groupon – Bengaluru, India**  
 _Oct 2019 – Sep 2021_
 
-- Led engineering for the **Consumer Platform** powering Groupon.com.
-- Delivered critical systems including Deals Catalog, UGC, Orders, Payments, Inventory, and Geo Services.
-- Directed initiatives like **Project Simplify**, Cloud Migration, and pandemic-time business continuity programs.
-- Institutionalized the Spotify model and Unified Backlog for cohesive product delivery.
-
-**Technologies**: Microservices, SOA  
-**Domains**: eCommerce, Deal Catalog, Payments, Inventory, Geo Services
+- Led the development of critical consumer-facing platforms, including Deals Platform, User-Generated Content (UGC), Geo Services, Shopping Cart, Wishlist, Orders, Payments, Images service, Voucher Inventory Management, and many more.
+- Steered organization-wide business contingency efforts during COVID-19, ensuring seamless operations amidst uncertainty.
+- Directed large-scale initiatives, including Project Simplify and Cloud Migration - transitioning infrastructure from aging on-premises systems to a modern cloud platform, enhancing scalability and resilience.
+- Strengthened payment infrastructure by introducing a Payment Gateway failover mechanism.
+- Modernized the Orders platform, improving reliability and transaction flow.
+- Implemented a uniform software development process across services, introducing the Spotify model and a unified backlog to enhance execution efficiency.
+- Optimized hiring processes, streamlining recruitment efforts to secure top talent.
+- Mentored and coached engineers, managers, program managers, and product managers, including women engineers, through structured mentorship programs such as Mentor Match.
+- Acted as adjudicator for multiple Groupon hackathons, fostering innovation within the company.
+- Expertise in Distributed Systems, SOA, and Microservices Architecture.
+- Domain expertise in eCommerce, Deal Catalog, UGC, Geo Services, Shopping Cart, Wishlist, Payments, Orders, and Voucher Inventory Management.
 
 ---
 
