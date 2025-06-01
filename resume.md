@@ -40,7 +40,7 @@ _Feb 2022 – Present_
 **Groupon – Bengaluru, India**  
 _Oct 2019 – Sep 2021_
 
-- Led the development of critical consumer-facing platforms, including Deals Platform, User-Generated Content (UGC), Geo Services, Shopping Cart, Wishlist, Orders, Payments, Images service, Voucher Inventory Management, and many more.
+- Directed engineering for the critical consumer-facing www.groupon.com web platform, including Deal Catalog, User-Generated Content (UGC), Geo Services, Shopping Cart, Wishlist, Orders, Payments, Images service, Voucher Inventory Management, and many more.
 - Steered organization-wide business contingency efforts during COVID-19, ensuring seamless operations amidst uncertainty.
 - Directed large-scale initiatives, including Project Simplify and Cloud Migration - transitioning infrastructure from aging on-premises systems to a modern cloud platform, enhancing scalability and resilience.
 - Strengthened payment infrastructure by introducing a Payment Gateway failover mechanism.
@@ -58,9 +58,15 @@ _Oct 2019 – Sep 2021_
 **VMware – Bengaluru, India**  
 _Jul 2015 – Oct 2019_
 
-- Directed engineering for **Workspace ONE UEM**, scaling it into a leading digital workspace solution.
-- Delivered innovations including Smart Group Engine, User Sync Model, and macOS Software Distribution.
-- Led GDPR, VPAT, and Apple ecosystem compliance efforts.
+- Directed engineering for **Workspace ONE UEM** and related products, driving innovation in enterprise mobility solutions, including Software Distribution on macOS, macOS Intelligent Hub, Workspace ONE Express, Product Provisioning, AirWatch Cloud Messaging, AirWatch Hub, and the AirWatch Self-Service Portal.
+- Architected large-scale enterprise applications, including multi-million line monolithic web applications and secure, multi-tenant microservices deployed across on-premises, cloud, and hybrid environments.
+- Conducted pioneering research on Project Orchestra and Project Harmony, foundational elements of Workspace ONE Digital Workspace.
+- Led the design and implementation of technically complex systems, including next-generation models for dynamic Smart Group evaluation and User Sync abstraction, software distribution for macOS, and a redesigned Reports module.
+- Directed major compliance and regulatory initiatives, including Apple UDID length changes, GDPR compliance, and VPAT adherence.
+- Championed modern engineering practices, including Agile, CI/CD, DevOps, and high-velocity software development.
+- Mentored and coached engineers and leaders, actively supporting innovation programs such as RADIO, Borathon, and internal/external hackathons.
+- Served on the Technical Due Diligence panel for VMware’s Aetherpal acquisition, assessing technical feasibility and integration strategies.
+- Certified Advanced Product Management Professional (Institute of Product Leadership) and Certified Scrum Master (Scrum Alliance)
 
 ---
 
