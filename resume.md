@@ -91,11 +91,20 @@ _Mar 2011 – Jun 2015_
 **Manhattan Associates – Bengaluru, India**  
 _Dec 2005 – Feb 2011_
 
-- Developed **Supply Chain Intelligence** and integrated voice-picking (Vocollect).
-- Created APIs, hardware sizing tools, and major enhancements for WMS and SCALE platforms.
-
-**Technologies**: C#, .NET, WCF, ZPL, SQL, BI tools  
-**Domains**: WMS, SCM, Logistics
+- Developed **Supply Chain Intelligence (SCI)**, a data warehouse product with ETL processes and user interfaces.
+- Built the **Manhattan SCALE Labor Management** module using Windows Communication Foundation (WCF) APIs.
+- Enhanced and stabilized the **Manhattan SCALE Vocollect** voice-based picking and packing system, optimizing warehouse workflows.
+- Created shipping and labeling solutions using Zebra Programming Language (ZPL).
+- Developed a reference architecture and hardware sizing tool for **Manhattan SCALE** on-premise deployments.
+- Implemented the **Tactical ILS integration** project to integrate multiple Manhattan Supply Chain Management products using webMethods.
+- Revamped the **Material Handling Equipment (MHE)** interface on WMS-i, enabling seamless integration with warehouse automation solutions from Siemens-Dematic and other industry-leading providers.
+- Designed a **custom XML SAX parser** and an **Enterprise Integration layer** for the WMS-i product.
+- Architected the PoC for **"DOM-on-i"**, integrating the Java-based Distributed Order Management with WMS-i.
+- Enabled large XML transfers (POs, ASNs) via IBM WebSphere MQ, leveraging **pointers to teraspace storage** on IBM-i.
+- Implemented support for **IN and NOT IN operators** in the native IBM-i Query interface.
+- Delivered multiple product features, strengthening Manhattan Associates' Warehouse and Supply Chain Management systems.
+- Expertise in Microsoft BI suite (SSIS, SSAS), IBM Cognos, C# and .NET, Windows Forms, WCF, ILE RPG, IBM WebSphere MQ, webMethods, XML, XSLT, and Java.
+- Domain expertise in Warehouse Management, Supply Chain Planning & Execution, Distributed Order Management, and Retail.
 
 ---
 
