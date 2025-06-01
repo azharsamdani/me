@@ -112,10 +112,13 @@ _Dec 2005 – Feb 2011_
 **Robert Bosch – Bengaluru, India**  
 _Nov 2003 – Dec 2005_
 
-- Led Bosch Warranty System for Blaupunkt, and contributed to ERP module development and SEI CMMi Level 5 transition.
-
-**Technologies**: RPG IV, AS/400, CL/400, C++, Java  
-**Domains**: ERP (Sales and Distribution)
+- Developed the **Bosch Warranty System** for Blaupunkt Audio Systems, serving as the sole developer and owner.
+- Developed the **Export Oriented Unit** module for Bosch’s Jaipur manufacturing plant, optimizing operational workflows.
+- Built several features on the Sales and Distribution module of the **Pansophic Resource Management System**.
+- Drove process maturity improvements, contributing to the team’s migration from SEI CMM Level 3 to **SEI CMMi Level 5**.
+- Evaluated and validated emerging technologies as part of Bosch’s **Emerging Technologies group**, supporting innovation initiatives.
+- Expertise in RPG/400, RPG IV, CL/400 on AS/400, SQL/400 (Query/400, Query Manager), DB2, C++, and Java.
+- Domain expertise in ERP, Sales & Distribution.
 
 ---
 
@@ -132,6 +135,13 @@ St. Joseph’s Boys High School, Bengaluru – 1997 – 91.83%
 
 ---
 
+## Patents
+
+- _Samdani, et al._; **Message-based management service enrollment**; _US Patent 10,158,982; December 18, 2018_
+- **Deployment of Applications to Managed Devices**; _Application number: 15/889,239; Oct. 19, 2017_
+
+---
+
 ## Core Skills
 
 - **Product Leadership**: Architecture, Scalable Platforms, Roadmapping
@@ -141,24 +151,3 @@ St. Joseph’s Boys High School, Bengaluru – 1997 – 91.83%
 - **Strategic Impact**: M&A Diligence, Startup Scaling, Organizational Design
 
 ---
-
-## Patents
-
-- **Message-based management service enrollment** – US Patent 10,158,982
-- **Deployment of Applications to Managed Devices** – Application No. 15/889,239
-
----
-
-## Languages
-
-English, Hindi, Kannada
-
----
-
-## Contact
-
-📍 #147, 10th Cross, 2nd Block, R.T. Nagar, Bengaluru – 560 032  
-📧 azharsamdani@gmail.com  
-📞 +91 9980565670  
-🔗 [LinkedIn](https://www.linkedin.com/in/azharsamdani)
-
