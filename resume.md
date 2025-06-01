@@ -74,11 +74,16 @@ _Jul 2015 – Oct 2019_
 **AirWatch (acquired by VMware) – Bengaluru, India**  
 _Mar 2011 – Jun 2015_
 
-- Built the **Workspace ONE Express** (initially AirWatch Professional).
-- Delivered AirWatch Hub, Cloud Messaging integration, and rugged device provisioning.
-
-**Technologies**: .NET, ASP.NET MVC, SQL Server, MSMQ, JavaScript  
-**Domains**: Unified Endpoint Management, Enterprise Mobility
+- Led the development of **AirWatch Professional** from scratch, which evolved into Workspace ONE Express and remains an integral product.
+- Built support for rugged device management, integrating **Product Provisioning** into the AirWatch server.
+- Developed and integrated **AirWatch Cloud Messaging**, a bi-directional Cloud-to-Device and Device-to-Cloud messaging platform.
+- Designed frameworks for background processing, optimizing execution of long-running operations.
+- Delivered **AirWatch Hub** dashboard, streamlining device management and user insights.
+- Developed the **AirWatch Self-Service Portal**, enabling users to manage their own devices, including dynamic mobile-optimized views.
+- Implemented advanced remote management tools, including **File Manager** and **Registry Manager** for Windows Mobile and Windows CE rugged devices.
+- Contributed to multiple product innovations and feature enhancements, strengthening AirWatch’s Unified Endpoint Management ecosystem.
+- Expertise in C# and .NET, ASP.NET MVC, Web API, SQL Server, Windows Services, MSMQ, JavaScript, and jQuery.
+- Domain expertise in Unified Endpoint Management, Enterprise Mobile Management, and Mobile Device Management.
 
 ---
 
