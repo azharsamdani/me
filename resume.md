@@ -4,7 +4,7 @@
 **VP of Technology | Engineering Leader | Expert in Building Scalable Software Applications**
 
   📍    &nbsp;&nbsp;&nbsp;Bengaluru, India  
-  📞   &nbsp;+91 XXXXXX5670
+  📞   &nbsp;+91 XXXXXX5670  
   ✉️   &nbsp;&nbsp;axxxxxx@gmail.com  
   🔗   &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/azharsamdani)
 
